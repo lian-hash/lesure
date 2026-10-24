@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "loading-skeleton": "/components/loading-skeleton/loading-skeleton",
+    "order-timeline": "/components/order-timeline/order-timeline",
+    "empty-state": "/components/empty-state/empty-state"
+  }
+}

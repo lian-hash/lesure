@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "选择场地",
+  "usingComponents": {
+    "loading-skeleton": "/components/loading-skeleton/loading-skeleton",
+    "site-card": "/components/site-card/site-card",
+    "empty-state": "/components/empty-state/empty-state"
+  }
+}

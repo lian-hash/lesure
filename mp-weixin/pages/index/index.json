@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "城野随行",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "/components/nav-bar/nav-bar",
+    "loading-skeleton": "/components/loading-skeleton/loading-skeleton",
+    "package-card": "/components/package-card/package-card",
+    "empty-state": "/components/empty-state/empty-state"
+  }
+}

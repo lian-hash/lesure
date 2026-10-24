@@ -1,0 +1,1 @@
+.stars.data-v-115c8f47{display:flex;align-items:center}.star.data-v-115c8f47{font-size:60rpx;line-height:64rpx;color:#e0e3e0;margin-right:16rpx;transition:all .15s ease}.star.on.data-v-115c8f47{color:#ffb400;text-shadow:0 4rpx 12rpx rgba(255,180,0,.28)}.star-tip.data-v-115c8f47{margin-left:8rpx;font-size:24rpx;color:#ff8f3f}

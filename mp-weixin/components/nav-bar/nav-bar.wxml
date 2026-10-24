@@ -1,0 +1,1 @@
+<view class="nav-bar data-v-5ab993ce"><block wx:if="{{showBack}}"><view data-event-opts="{{[['tap',[['onBack',['$event']]]]]}}" class="nav-back data-v-5ab993ce" bindtap="__e">‹</view></block><view class="nav-title data-v-5ab993ce">{{title}}</view></view>

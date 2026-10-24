@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/packageDetail/packageDetail",
+    "pages/siteSelect/siteSelect",
+    "pages/orderCreate/orderCreate",
+    "pages/orderPay/orderPay",
+    "pages/orderList/orderList",
+    "pages/orderDetail/orderDetail",
+    "pages/review/review",
+    "pages/mine/mine",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "城野随行",
+    "navigationBarBackgroundColor": "#2E7D32",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#F5F7F4"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#2E7D32",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home_active.png"
+      },
+      {
+        "pagePath": "pages/orderList/orderList",
+        "text": "订单",
+        "iconPath": "static/tabbar/order.png",
+        "selectedIconPath": "static/tabbar/order_active.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/tabbar/mine.png",
+        "selectedIconPath": "static/tabbar/mine_active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

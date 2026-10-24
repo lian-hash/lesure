@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "订单支付",
+  "usingComponents": {
+    "loading-skeleton": "/components/loading-skeleton/loading-skeleton"
+  }
+}
